@@ -156,7 +156,8 @@ namespace DoWhileMethodes
 
                 }
             } while(valasztas != 3);
-
+            Console.WriteLine();
+            Console.WriteLine("ok");
             Console.ReadLine();
         }
     }
